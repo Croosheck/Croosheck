@@ -1,3 +1,5 @@
+//This code is converting Kelvin degrees to Celsius, Fahrenheit and Newton degrees value.
+
 //Kelvin's value
 const kelvin = 0
 //Celsius value

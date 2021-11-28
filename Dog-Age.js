@@ -1,3 +1,5 @@
+// This code converts human age to dog age.
+
 let name = 'Krystian'.toLowerCase();
 //Setting my age
 let myAge = 26;

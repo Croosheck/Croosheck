@@ -1,3 +1,5 @@
+//This code randomly chooses 1 answer (from 8 available) for asked question.
+
 let userName = ''.toUpperCase();
 let userQuestion = 'question';
 let randomNumber = Math.floor(Math.random() * 8);

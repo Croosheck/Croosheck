@@ -1,3 +1,5 @@
+//This code assigns time and number for a run, based on registration time and runner's age.
+
 let raceNumber = Math.floor(Math.random() * 1000);
 let registeredEarly = true;
 let runnersAge = 18;
