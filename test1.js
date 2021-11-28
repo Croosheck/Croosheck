@@ -1,1 +1,1 @@
-typeof("Hola");
+console.log(typeof("Hola"));
